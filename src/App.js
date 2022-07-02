@@ -1,6 +1,6 @@
-import './App.css';
-import Profile from './components/Profile';
-import Login from './components/Login';
+import "./App.css"
+import Profile from "./components/Profile"
+import Login from "./components/Login"
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <Profile />
       <Login />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
